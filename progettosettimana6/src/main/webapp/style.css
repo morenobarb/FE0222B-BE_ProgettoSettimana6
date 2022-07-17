@@ -1,0 +1,15 @@
+form {
+	margin-top: 3em;
+	text-align: center;
+	background-color: rgb(162, 219, 162);
+	width: fit-content;
+	margin: 0 auto;
+	border-radius: 5px;
+	margin-top: 3em;
+	padding: 4em;
+}
+
+#bottone {
+	cursor: pointer;
+	margin-bottom: 1em;
+}
